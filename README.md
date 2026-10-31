@@ -1,4 +1,4 @@
-# PyForge 🔨
+# PyForge 
 
 **10 modules Python autonomes, sans aucune dépendance externe.**
 Chacun résout un problème concret, tient dans un seul fichier lisible, et peut être copié seul dans votre projet. Trois projets d'exemple montrent comment les combiner.
