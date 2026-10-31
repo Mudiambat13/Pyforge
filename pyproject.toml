@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyforge"
+version = "1.0.0"
+description = "10 modules Python autonomes (stdlib uniquement) : événements, cache, résilience, ORM, texte, cron, pipelines, validation, recherche vectorielle, web."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["stdlib", "orm", "cron", "pipeline", "vector-search", "wsgi", "validation"]
+
+[tool.setuptools]
+packages = ["pyforge"]
